@@ -1,0 +1,7 @@
+-U crawl4ai 
+crawl4ai --pre
+crawl4ai-setup
+crawl4ai-doctor
+beautifulsoup4
+requests
+googlesearch-python
